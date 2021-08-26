@@ -65,13 +65,13 @@ Here are some ideas to get you started:
 
 
 <a href="https://exercism.io/profiles/pkryusuf">
-  <img align="left" alt="Yusuf's Linkdein" width="40px" src="https://masonliu.gallerycdn.vsassets.io/extensions/masonliu/exercism/1.17.0/1586192511972/Microsoft.VisualStudio.Services.Icons.Default" />
+  <img align="left" alt="Yusuf's exercism " width="40px" src="https://masonliu.gallerycdn.vsassets.io/extensions/masonliu/exercism/1.17.0/1586192511972/Microsoft.VisualStudio.Services.Icons.Default" />
 </a>
 
 
 
 <a href="https://leetcode.com/pkryusuf/">
-  <img align="left" alt="Dave's Linkdein" width="44px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--75kJZZQg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://assets.leetcode.com/static_assets/public/images/LeetCode_Sharing.png" />
+  <img align="left" alt="Dave's leetcode " width="44px" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" />
 </a>
 
 
