@@ -49,7 +49,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Yusuf's Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
 </a>  
   
-[<img width="40px" align="left" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>][StackOverflow]  
+
   
 [<img width="40px" align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNPwFE-CgNd8TRWnp1WYBYHkLbZSMdIG4olQ&usqp=CAU"/>][Hackerrank]
   
@@ -75,4 +75,4 @@ Here are some ideas to get you started:
   <img align="left" alt="Dave's leetcode " width="40px" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" />
 </a>
 
-
+[<img width="40px" align="left" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>][StackOverflow]  
