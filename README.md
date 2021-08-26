@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://leetcode.com/pkryusuf/">
-  <img align="left" alt="Dave's leetcode " width="80px" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" />
+  <img align="left" alt="Dave's leetcode " width="80px" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" />
 </a>
 
 
