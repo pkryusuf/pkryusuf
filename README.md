@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### 
 
-```
+
 ### Connect and Find me on :
 <a href="mailto:25burak25@gmail.com" ><img width="40px" align="left" style="margin-left:2.0em" src="https://img.icons8.com/color/48/4a90e2/gmail.png"/><a/>
 <a href="https://t.me/pkryusuf">
@@ -39,41 +39,39 @@ Here are some ideas to get you started:
 
 [<img width="40px" align="left" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>][StackOverflow]
 
-```
 
-```
+
+
 [Hackerrank]: https://www.hackerrank.com/pkryusuf
 [Codewars]: https://www.codewars.com/users/pkryusuf
 [StackOverflow]: https://stackoverflow.com/users/16762313/yusuf-burak-peker
 ```
 
-```
+
 <a href="https://github.com/pkryusuf">
   <img align="left" alt="Yusuf's Github" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
 </a>
-```
 
-```
 <a href="https://instagram.com/pkryusuf/">
   <img align="left" alt="Yusuf's Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
 </a>
 ```
 
-```
+
 <a href="https://linkedin.com/in/pkryusuf/">
   <img align="left" alt="Yusuf's Linkdein" width="40px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
 ```
 
-```
+
 <a href="https://exercism.io/profiles/pkryusuf">
   <img align="left" alt="Yusuf's Linkdein" width="40px" src="https://masonliu.gallerycdn.vsassets.io/extensions/masonliu/exercism/1.17.0/1586192511972/Microsoft.VisualStudio.Services.Icons.Default" />
 </a>
-```
 
-```
+
+
 <a href="https://leetcode.com/pkryusuf/">
   <img align="left" alt="Dave's Linkdein" width="44px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--75kJZZQg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://assets.leetcode.com/static_assets/public/images/LeetCode_Sharing.png" />
 </a>
-```
+
 
