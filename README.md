@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 [Hackerrank]: https://www.hackerrank.com/pkryusuf
 [Codewars]: https://www.codewars.com/users/pkryusuf
 [StackOverflow]: https://stackoverflow.com/users/16762313/yusuf-burak-peker
-```
+
 
 
 <a href="https://github.com/pkryusuf">
@@ -55,13 +55,13 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/pkryusuf/">
   <img align="left" alt="Yusuf's Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
 </a>
-```
+
 
 
 <a href="https://linkedin.com/in/pkryusuf/">
   <img align="left" alt="Yusuf's Linkdein" width="40px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
-```
+
 
 
 <a href="https://exercism.io/profiles/pkryusuf">
