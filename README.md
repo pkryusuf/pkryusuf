@@ -28,10 +28,15 @@ Here are some ideas to get you started:
 
 
 ### Connect and Find me on :
-<a href="mailto:25burak25@gmail.com" ><img width="40px" align="left" style="margin-left:2.0em" src="https://img.icons8.com/color/48/4a90e2/gmail.png"/><a/>
+
+<a href="mailto:25burak25@gmail.com" >
+  <img width="40px" align="left" style="margin-left:2.0em" src="https://img.icons8.com/color/48/4a90e2/gmail.png"/>
+  <a/>
+  
 <a href="https://t.me/pkryusuf">
   <img align="left" alt="Yusuf's Telegram" width="40px" src="https://web.telegram.org/img/logo_share.png" />
-</a>  
+</a> 
+  
 <a href="https://github.com/pkryusuf">
   <img align="left" alt="Yusuf's Github" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
 </a>
