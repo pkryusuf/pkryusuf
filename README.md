@@ -52,7 +52,7 @@
   
 [<img width="40px" align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNPwFE-CgNd8TRWnp1WYBYHkLbZSMdIG4olQ&usqp=CAU"/>][Hackerrank]
   
-[<img width="40px" align="left" src="https://cloud.githubusercontent.com/assets/2475572/4743290/2dcf20cc-5a26-11e4-89fb-62b861e5b29c.png"/>][Codewars]
+[<img width="40px" align="left" src="https://docs.codewars.com/logo.svg"/>][Codewars]
 
 [Hackerrank]: https://www.hackerrank.com/pkryusuf
 [Codewars]: https://www.codewars.com/users/pkryusuf
