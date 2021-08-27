@@ -1,6 +1,6 @@
    
 <div>
-  <h2> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=529DF0&lines=Hello+there%2C+fellow+%3Cdevelopers%2F%3E)](https://git.io/typing-svg) &nbsp; <img src="https://github.com/pkryusuf/pkryusuf/blob/main/hi.gif" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align = "right" width="110" height="21" src ="https://komarev.com/ghpvc/?username=your-github-pkryusuf" alt="pkryusuf Profile Views"/></h2>
+  <h2> img src="https://readme-typing-svg.herokuapp.com?color=529DF0&lines=Hello+there%2C+fellow+%3Cdevelopers%2F%3E" &nbsp; <img src="https://github.com/pkryusuf/pkryusuf/blob/main/hi.gif" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align = "right" width="110" height="21" src ="https://komarev.com/ghpvc/?username=your-github-pkryusuf" alt="pkryusuf Profile Views"/></h2>
 </div>
 
 <div class='pull-left'> 
