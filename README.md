@@ -7,12 +7,13 @@
 -💻 I'm a third year student pursuing Bachelors in Computer Engineering from Manisa Celal Bayar University.
 -🌱 I’m currently learning Java.
 
-//### Stats:
+<!-
+
+ ### Stats:
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uguraltintas&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=uguraltintas&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark)
-//
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pkryusuf&show_icons=true&hide=contribs&locale=en&theme=github_dark&include_all_commits=true&count_private=true) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=pkryusuf&show_icons=true&locale=en&layout=compact&langs_count=8&theme=github_dark)
 
-
+-->
 
 ### 
 
