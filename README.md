@@ -1,6 +1,6 @@
    
 <div>
-  <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! &nbsp; <img src="https://github.com/pkryusuf/pkryusuf/blob/main/hi.gif" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align = "right" width="70" height="21" src ="https://komarev.com/ghpvc/?username=your-github-pkryusuf" alt="pkryusuf Profile Views"/></h2>
+  <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! &nbsp; <img src="https://github.com/pkryusuf/pkryusuf/blob/main/hi.gif" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align = "right" width="110" height="21" src ="https://komarev.com/ghpvc/?username=your-github-pkryusuf" alt="pkryusuf Profile Views"/></h2>
 </div>
 
 
