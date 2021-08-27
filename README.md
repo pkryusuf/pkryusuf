@@ -1,11 +1,14 @@
    
 <div>
-  <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! &nbsp; <img src="https://github.com/pkryusuf/pkryusuf/blob/main/hi.gif" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align = "right" width="110" height="21" src ="https://komarev.com/ghpvc/?username=your-github-pkryusuf" alt="pkryusuf Profile Views"/></h2>
+  <h2> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=529DF0&lines=Hello+there%2C+fellow+%3Cdevelopers%2F%3E)](https://git.io/typing-svg) &nbsp; <img src="https://github.com/pkryusuf/pkryusuf/blob/main/hi.gif" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align = "right" width="110" height="21" src ="https://komarev.com/ghpvc/?username=your-github-pkryusuf" alt="pkryusuf Profile Views"/></h2>
 </div>
 
-<div class='pull-right'>
-   <img width=380 height=250 src="https://github-readme-stats.vercel.app/api?username=pkryusuf&show_icons=true&hide=contribs&theme=github_dark")/>
-</div>
+<div class='pull-left'> 
+   -💻 I'm a third year student pursuing Bachelors in Computer Engineering from Manisa Celal Bayar University.
+   -🌱 I’m currently learning Java.
+</div><div class='pull-right'> <img width=420 height=170 src="https://github-readme-stats.vercel.app/api?username=pkryusuf&show_icons=true&hide=contribs&theme=github_dark")/></div>
+
+
 
 ---
 
