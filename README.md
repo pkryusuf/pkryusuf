@@ -1,18 +1,10 @@
-   
 <div>
-  <h2> img src="https://readme-typing-svg.herokuapp.com?color=529DF0&lines=Hello+there%2C+fellow+%3Cdevelopers%2F%3E" &nbsp; <img src="https://github.com/pkryusuf/pkryusuf/blob/main/hi.gif" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align = "right" width="110" height="21" src ="https://komarev.com/ghpvc/?username=your-github-pkryusuf" alt="pkryusuf Profile Views"/></h2>
+  <h1> 
+     <img src="https://readme-typing-svg.herokuapp.com?color=FEFEFE&size=18&lines=Hello+there%2C+fellow+%3Cdeveloper%2F%3E+%F0%9F%91%8B" &nbsp; <img src="https://github.com/pkryusuf/pkryusuf/blob/main/hi.gif" ">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align = "right" width="110" height="21" src ="https://komarev.com/ghpvc/?username=your-github-pkryusuf" alt="pkryusuf Profile Views"/>
+  </h1>
 </div>
+   
 
-<div class='pull-left'>  
-   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?color=529DF0&lines=Hello+there%2C+fellow+%3Cdevelopers%2F%3E">
-</h1>
-</div>
-<div class='pull-right'> 
-   <h1
-   <img src="https://github.com/pkryusuf/pkryusuf/blob/main/hi.gif" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align = "right" width="110" height="21" src ="https://komarev.com/ghpvc/?username=your-github-pkryusuf" alt="pkryusuf Profile Views"/>
-</h1>
-</div>
 
 
 
