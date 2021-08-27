@@ -3,17 +3,31 @@
   <h2> img src="https://readme-typing-svg.herokuapp.com?color=529DF0&lines=Hello+there%2C+fellow+%3Cdevelopers%2F%3E" &nbsp; <img src="https://github.com/pkryusuf/pkryusuf/blob/main/hi.gif" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align = "right" width="110" height="21" src ="https://komarev.com/ghpvc/?username=your-github-pkryusuf" alt="pkryusuf Profile Views"/></h2>
 </div>
 
+<div class='pull-left'>  
+   <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?color=529DF0&lines=Hello+there%2C+fellow+%3Cdevelopers%2F%3E">
+</h1>
+</div>
+<div class='pull-right'> 
+   <h1
+   <img src="https://github.com/pkryusuf/pkryusuf/blob/main/hi.gif" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align = "right" width="110" height="21" src ="https://komarev.com/ghpvc/?username=your-github-pkryusuf" alt="pkryusuf Profile Views"/>
+</h1>
+</div>
+
+
+
 
 -💻 I'm a third year student pursuing Bachelors in Computer Engineering from Manisa Celal Bayar University.
 -🌱 I’m currently learning Java.
 
-<!-
+<!--
 
  ### Stats:
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pkryusuf&show_icons=true&hide=contribs&theme=github_dark) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=pkryusuf&show_icons=true&locale=en&layout=compact&langs_count=8&theme=github_dark)
 
 -->
+
 
 ### 
 
