@@ -3,15 +3,12 @@
   <h2> img src="https://readme-typing-svg.herokuapp.com?color=529DF0&lines=Hello+there%2C+fellow+%3Cdevelopers%2F%3E" &nbsp; <img src="https://github.com/pkryusuf/pkryusuf/blob/main/hi.gif" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align = "right" width="110" height="21" src ="https://komarev.com/ghpvc/?username=your-github-pkryusuf" alt="pkryusuf Profile Views"/></h2>
 </div>
 
-<div class='pull-left'> 
-   <span style="font-size: 30px;"> 
-      -💻 I'm a third year student pursuing Bachelors in Computer Engineering from Manisa Celal Bayar University.
-      -🌱 I’m currently learning Java.
-   </span>
-   
-</div>
-<div class='pull-right'> 
-   <img width=420 height=170 src="https://github-readme-stats.vercel.app/api?username=pkryusuf&show_icons=true&hide=contribs&theme=github_dark")/>
+
+-💻 I'm a third year student pursuing Bachelors in Computer Engineering from Manisa Celal Bayar University.
+-🌱 I’m currently learning Java.
+
+<div class='center'> 
+   <img width=500 height=250 src="https://github-readme-stats.vercel.app/api?username=pkryusuf&show_icons=true&hide=contribs&theme=github_dark")/>
 </div>
 
 
