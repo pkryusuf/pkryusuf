@@ -4,9 +4,15 @@
 </div>
 
 <div class='pull-left'> 
-   -💻 I'm a third year student pursuing Bachelors in Computer Engineering from Manisa Celal Bayar University.
-   -🌱 I’m currently learning Java.
-</div><div class='pull-right'> <img width=420 height=170 src="https://github-readme-stats.vercel.app/api?username=pkryusuf&show_icons=true&hide=contribs&theme=github_dark")/></div>
+   <span style="font-size: 30px;"> 
+      -💻 I'm a third year student pursuing Bachelors in Computer Engineering from Manisa Celal Bayar University.
+      -🌱 I’m currently learning Java.
+   </span>
+   
+</div>
+<div class='pull-right'> 
+   <img width=420 height=170 src="https://github-readme-stats.vercel.app/api?username=pkryusuf&show_icons=true&hide=contribs&theme=github_dark")/>
+</div>
 
 
 
