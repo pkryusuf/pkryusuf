@@ -11,7 +11,7 @@
 
  ### Stats:
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pkryusuf&show_icons=true&hide=contribs&locale=en&theme=github_dark&include_all_commits=true&count_private=true) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=pkryusuf&show_icons=true&locale=en&layout=compact&langs_count=8&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pkryusuf&show_icons=true&hide=contribs&theme=github_dark) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=pkryusuf&show_icons=true&locale=en&layout=compact&langs_count=8&theme=github_dark)
 
 -->
 
