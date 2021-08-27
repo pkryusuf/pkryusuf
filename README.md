@@ -4,7 +4,7 @@
 </div>
 
 <div class='pull-right'>
-   <img width=450 height=170 src="https://github-readme-stats.vercel.app/api?username=pkryusuf&show_icons=true&hide=contribs&theme=github_dark")/>
+   <img width=380 height=170 src="https://github-readme-stats.vercel.app/api?username=pkryusuf&show_icons=true&hide=contribs&theme=github_dark")/>
 </div>
 
 ---
