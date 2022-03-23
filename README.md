@@ -10,7 +10,7 @@
 
 -💻 I'm a third year student pursuing Bachelors in Computer Engineering from Manisa Celal Bayar University.
 
--🌱 I’m currently learning Java.
+-🌱 I’m currently learning Java, Python, JavaScript, Matlab, PostgreSQL...
 
 -📫 You can reach me on anywhere
 
