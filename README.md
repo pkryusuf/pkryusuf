@@ -8,9 +8,9 @@
 
 
 
--💻 I'm a third year student pursuing Bachelors in Computer Engineering from Manisa Celal Bayar University.
+-💻 I'm a fourth year student pursuing Bachelors in Computer Engineering from Manisa Celal Bayar University.
 
--🌱 I’m currently learning Java, Python, JavaScript, Matlab, PostgreSQL ...
+-🌱 I’m currently learning Java, Python, JavaScript, CSS, ...
 
 -📫 You can reach me on anywhere
 
