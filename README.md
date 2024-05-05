@@ -8,9 +8,9 @@
 
 
 
--💻 I'm a fourth year student pursuing Bachelors in Computer Engineering from Manisa Celal Bayar University.
+-💻 I'm graduted from Computer Engineering at Manisa Celal Bayar University.
 
--🌱 I’m currently learning Java, Python, JavaScript, CSS, ...
+-🌱 I’m currently working on ASP.NET MVC
 
 -📫 You can reach me on anywhere
 
