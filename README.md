@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/header.svg" alt="Yusuf Burak Peker – Backend Developer (.NET) at Kartega Yazılım, İzmir" width="100%">
+<picture><img src="./assets/header.svg" alt="Yusuf Burak Peker – Backend Developer (.NET) at Kartega Yazılım, İzmir" width="100%"></picture>
 <a href="https://pkryusuf.tech"><img src="./assets/section-work.svg" alt="Selected work – more on pkryusuf.tech" width="100%"></a>
 <a href="https://pkryusuf.tech/projects/dtarsiv"><img src="./assets/work-dtarsiv.svg" alt="DTArşiv – Demirören News Agency" width="33.33%" align="top"></a><a href="https://laviya.app"><img src="./assets/work-laviya.svg" alt="Laviya – laviya.app" width="33.33%" align="top"></a><a href="https://pendigit.com"><img src="./assets/work-pendigit.svg" alt="Pendigit – pendigit.com" width="33.33%" align="top"></a>
 <a href="https://lumosdanismanlik.com"><img src="./assets/work-lumos.svg" alt="Lumos Danışmanlık – lumosdanismanlik.com" width="50%" align="top"></a><a href="https://foxperstudios.com"><img src="./assets/work-foxper.svg" alt="Foxper Studios – foxperstudios.com" width="50%" align="top"></a>
