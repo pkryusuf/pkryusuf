@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="280" viewBox="0 0 400 280" role="img" aria-label="Pendigit – pendigit.com">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#121a33"/>
+  </linearGradient>
+  <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#9d8cff"/><stop offset="1" stop-color="#5ec8ff"/>
+  </linearGradient>
+</defs>
+<rect x="8" y="8" width="384" height="264" rx="18" fill="url(#bg)" stroke="#26304d"/>
+
+<rect x="40" y="8" width="64" height="4" rx="2" fill="url(#ac)"/>
+<text x="40" y="58" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12" letter-spacing="2.5" fill="#9d8cff">KARTEGA · FULL-STACK</text>
+<text x="40" y="100" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#e8ecf6">Pendigit</text>
+<text x="40" y="128" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="15" fill="#8e9ab8">pendigit.com</text>
+<text x="360" y="100" text-anchor="end" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="22" fill="#8e9ab8">↗</text>
+<text x="40" y="172" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="17" fill="#8e9ab8">Super app with live channels, VOD,</text><text x="40" y="197" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="17" fill="#8e9ab8">social feed and ads. .NET 8 backend</text><text x="40" y="222" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="17" fill="#8e9ab8">features and Next.js admin panels.</text>
+
+</svg>
